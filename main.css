@@ -1,0 +1,18 @@
+.container{
+    background-color: #fff; margin: 5px 1px; padding: 0px 0px 50px 0px; 
+}
+body{
+    background-color: rgb(83, 152, 231); 
+}
+button{
+    background-color: rgb(70, 60, 206); font-size: 175%; padding: 7px 10px; margin: 5px 15px; float: right; color: rgb(251, 251, 250);
+}
+.form-container{
+    background-color: #fff; margin: 100px 700px 100px 700px; padding: 30px 30px 150px 30px;
+}
+.input-style{
+    font-size: 24px; border-style: solid(1);
+}
+.logos{
+    width: 50%; height: 50%; margin-bottom: 2%;
+}
